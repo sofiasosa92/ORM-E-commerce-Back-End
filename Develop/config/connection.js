@@ -10,6 +10,7 @@ const sequelize = process.env.JAWSDB_URL
     process.env.DB_PW, {
       host: '127.0.0.1',
       dialect: 'mysql',
+      // do i need a port here? port: 3306 ??
       dialectOptions: {
         decimalNumbers: true,
       },
