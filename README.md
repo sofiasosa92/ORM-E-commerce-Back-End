@@ -44,6 +44,11 @@ To install
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)](https://heroku.com/)
 
+[![MySQL2] 
+[![Sequelize] 
+
+
+
 ### Heroku link:
 
 
