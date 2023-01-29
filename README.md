@@ -1,6 +1,4 @@
-# E-commerce Back End Starter Code
-
-# Note-Taker-Express.js
+# E-commerce Back End ORM
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
