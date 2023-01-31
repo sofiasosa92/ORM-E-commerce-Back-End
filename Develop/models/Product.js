@@ -22,34 +22,28 @@ Product.init(
     },
 
     price: {
-      type: DataTypes.DECIMAL(),//??????? check back on this one 
+      type: DataTypes.DECIMAL,
       allowNull: false,
-      validate:{}
-    //  {
-    //     if (!validator.isDecimal(String(value))) {
-    //       throw new Error('Price must be a decimal number');
-    //     }//
+      validate:{
+        isDecimal: true,
+      },
     },
-
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
       defaultValue: 10,
       validate: {
-        isNumeric //come back to this one, look into it.???
-      }
+        isNumeric: true,
+      },
     },
-
-
     category_id: {
       type: DataTypes.INTEGER,
       references: {
         model: 'category',
-        key: 'id', // ask if this correct-- ?????
+        key: 'id',
       },
     },
   },
-
   {
     sequelize,
     timestamps: false,
