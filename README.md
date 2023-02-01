@@ -34,6 +34,19 @@ To install:
 ```npm install dotenv ```
 
 
+Commands to run at the root of your project:
+
+```mysql -u root -p ```
+
+```SOURCE db/schema.sql; ```
+
+```exit ```
+
+```npm run seed ```
+
+```npm start```
+
+
 ### Technology used:
 
 [![ExpressJS Badge](https://img.shields.io/badge/-Express.JS-ff781f?style=for-the-badge&labelColor=black&logo=express&logoColor=FF781F)](#)
