@@ -53,13 +53,11 @@ Commands to run at the root of your project:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 
-[![dotenv] 
-[![MySQL2] 
-[![Sequelize] 
+[![.ENV](https://img.shields.io/badge/.ENV-000000?style=for-the-badge&logo=.env&logoColor=F7DF1E)](https://www.dotenv.org/)
 
+[![MySQL2](https://img.shields.io/badge/MySQL2-4682B4?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://www.npmjs.com/package/mysql2) 
 
-
-### Heroku link:
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=4682B4)](https://www.npmjs.com/package/mysql2) 
 
 
 ### Questions?:
