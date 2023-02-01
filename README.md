@@ -26,8 +26,11 @@ For this week's challenge I created a backend database for an e-commerce website
 To install:
 
 ```npm init ```
+
 ```npm install mysql2 ```
+
 ```npm install sequelize ```
+
 ```npm install dotenv ```
 
 
