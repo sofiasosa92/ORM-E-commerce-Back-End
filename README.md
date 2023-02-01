@@ -15,15 +15,20 @@
 * [Questions?](#questions)
 
 ### Description:
-For this week's challenge I created 
+For this week's challenge I created a backend database for an e-commerce website using using Express, MySQL2, Sequelize and dotenv. 
 
 ### Screenshot:
 
 ### Video Demo:
 
 ### Usage:
-To install 
-```npm install ```
+
+To install:
+
+```npm init ```
+```npm install mysql2 ```
+```npm install sequelize ```
+```npm install dotenv ```
 
 
 ### Technology used:
