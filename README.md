@@ -57,7 +57,9 @@ Commands to run at the root of your project:
 
 [![MySQL2](https://img.shields.io/badge/MySQL2-4682B4?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://www.npmjs.com/package/mysql2) 
 
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=4682B4)](https://www.npmjs.com/package/mysql2) 
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=4682B4)](https://www.npmjs.com/package/mysql2)
+
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=ffffff)](https://insomnia.rest/) 
 
 
 ### Questions?:
