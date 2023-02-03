@@ -19,7 +19,14 @@ For this week's challenge I created a backend database for an e-commerce website
 
 ### Screenshot:
 
+![Screen Shot 2023-02-03 at 5 00 28 PM](https://user-images.githubusercontent.com/115671262/216727001-8bb3b336-05a7-449e-8686-b9241ac61e81.png)
+
+![Screen Shot 2023-02-03 at 5 00 11 PM](https://user-images.githubusercontent.com/115671262/216727028-8a9c19d0-8fa2-4d57-b4c0-43b8227d0876.png)
+
+![Screen Shot 2023-02-03 at 5 00 54 PM](https://user-images.githubusercontent.com/115671262/216727032-23d6b67e-b607-4490-90bf-d9e9d5d78e28.png)
+
 ### Video Demo:
+
 
 ### Usage:
 
