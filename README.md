@@ -15,7 +15,7 @@
 * [Questions?](#questions)
 
 ### Description:
-For this week's challenge I created a backend database for an e-commerce website using using Express, MySQL2, Sequelize and dotenv. 
+For this week's challenge I created a backend database for an e-commerce website using using Express, MySQL2, Sequelize and dotenv. I tested models in insomnia to pull all categories, tags and products by Id, create new categories, tags and products, aswell as update them and delete them. 
 
 ### Screenshot:
 
